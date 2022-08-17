@@ -2,6 +2,10 @@
 
 Xevent Reader is a tool written in Python that reads Extend Event Files of SQL Server and exports parsed results into SQL Server. It is designed to be an alternative to SSMS when the exporting table function crashes. The Reader has two main functions: read and parse xevent files into SQL Server tables and import csv files into SQL Server.
 
+![image-20220817095032595](https://github.com/jason5306/XeventReader/blob/main/img/image-20220817095032595.png)
+
+![image-20220817150923654](https://github.com/jason5306/XeventReader/blob/main/img/image-20220817150923654.png)
+
 ## Install
 
 1. Install [Microsoft ODBC Driver17 for SQL Server x64](https://go.microsoft.com/fwlink/?linkid=2200731)
